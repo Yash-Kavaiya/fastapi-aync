@@ -4,3 +4,4 @@ sse-starlette
 websockets
 httpx
 pydantic[email]
+python-multipart
