@@ -2,3 +2,5 @@ fastapi
 uvicorn[standard]
 sse-starlette
 websockets
+httpx
+pydantic[email]
